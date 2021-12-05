@@ -3,4 +3,4 @@ Hello I am CrafterBot
    I like to make mods<br>
    Unity is better than Unreal<br>
 
-Check out my favorite project Muck-Fly
+Check out my <a href="https://discord.com/invite/MyU9mBR352">discord server</a>
